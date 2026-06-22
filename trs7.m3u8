@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3440800,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
-http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(lHYFCye9-Wz7JTR3tVbfGXzX8ztudp1JEHngy7gAy5l5nAb1IQOVp2ttFyD2I17lT_Z6No0HdBnFTqsIPr7jiJh7NY20u0BlXbr_zN_pUT2QI1yEoNgKTMSUTHMpUGS_)/dm/3/x8qckyq/d/live-480.m3u8#cell=lcf-eu-north-1b
+#http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
