@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3440800,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
-https://cdndirector.dailymotion.com/cdn/live/video/x8qckyq.m3u8?sec=uLpJ4YfXzVfFkEetU0CnczT6_dQNWlzuarr9b0xHK4Du9JBqrgqBZ5Lrg3ls4ASjmIGFaGc_aTzZyM5rucxl5Jp4vhHwA0TANBgggL81VB-vYQqpr6RYy68FLz6QuR01&dmTs=549062&dmV1st=e3ab9516-8a17-4818-ac0e-b811ad5ea14d
+#EXT-X-STREAM-INF:BANDWIDTH=3440800,RESOLUTION=1920x1080,
+https://cdndirector.dailymotion.com/cdn/live/video/x8qckyq.m3u8?sec=uLpJ4YfXzVfFkEetU0CnczT6_dQNWlzuarr9b0xHK4Du9JBqrgqBZ5Lrg3ls4ASjmIGFaGc_aTzZyM5rucxl5Jp4vhHwA0TANBgggL81VB-vYQqpr6RYy68FLz6QuR01&dmTs
